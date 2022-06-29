@@ -1,0 +1,7 @@
+﻿  Company.cpp
+C:\Users\alykh\Desktop\ProjectData\ProjectData\Cargo.h(33,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Source.cpp
+C:\Users\alykh\Desktop\ProjectData\ProjectData\Cargo.h(33,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\alykh\Desktop\ProjectData\ProjectData\Source.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ProjectData.vcxproj -> C:\Users\alykh\Desktop\ProjectData\ProjectData\Debug\ProjectData.exe

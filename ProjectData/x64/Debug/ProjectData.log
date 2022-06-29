@@ -1,0 +1,15 @@
+﻿  CancellationEvent.cpp
+C:\Users\WinDows\Desktop\ProjectData\ProjectData\Cargo.h(33,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Company.cpp
+C:\Users\WinDows\Desktop\ProjectData\ProjectData\Cargo.h(33,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Events.cpp
+C:\Users\WinDows\Desktop\ProjectData\ProjectData\Cargo.h(33,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PreperationEvent.cpp
+C:\Users\WinDows\Desktop\ProjectData\ProjectData\Cargo.h(33,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PromotionEvent.cpp
+C:\Users\WinDows\Desktop\ProjectData\ProjectData\Cargo.h(33,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Source.cpp
+C:\Users\WinDows\Desktop\ProjectData\ProjectData\Cargo.h(33,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\WinDows\Desktop\ProjectData\ProjectData\Source.cpp(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  ProjectData.vcxproj -> C:\Users\WinDows\Desktop\ProjectData\ProjectData\x64\Debug\ProjectData.exe
